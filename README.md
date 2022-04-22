@@ -16,4 +16,5 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+[![wakatime](https://wakatime.com/badge/user/e5c39496-66c7-4025-bde6-d27a6433ed9b.svg)](https://wakatime.com/@e5c39496-66c7-4025-bde6-d27a6433ed9b)
 <!--![Metrics](https://github.com/Troplo/Troplo/blob/main/github-metrics.svg)-->
