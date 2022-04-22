@@ -18,5 +18,5 @@
 ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
 
 Since April 5, 2022<br>
-[![wakatime](https://wakatime.com/badge/user/e5c39496-66c7-4025-bde6-d27a6433ed9b.svg)](https://wakatime.com/@e5c39496-66c7-4025-bde6-d27a6433ed9b)
+![wakatime](https://wakatime.troplo.com/api/badge/Troplo/Troplo/interval:any?label=wakatime)
 <!--![Metrics](https://github.com/Troplo/Troplo/blob/main/github-metrics.svg)-->
