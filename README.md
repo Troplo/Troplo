@@ -1,3 +1,9 @@
+Discord: <a href="https://discord.com/users/692259321907773460">Troplo#8495</a><br>
+Twitter: <a href="https://twitter.com/TheTroplo">@TheTroplo</a><br>
+Matrix: <a href="https://matrix.to/#/@troplo:troplo.com?via=troplo.com">@troplo:troplo.com</a><br>
+Telegram: <a href="https://t.me/Troplo">@Troplo</a><br>
+Email: <a href="mailto:troplo@troplo.com">troplo@troplo.com</a>
+
 ![Troplo's Visitors](https://visitor-badge.glitch.me/badge?page_id=Troplo&left_color=grey&right_color=blue)
 
 ![Troplo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Troplo&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
