@@ -6,7 +6,7 @@ Email: <a href="mailto:troplo@troplo.com">troplo@troplo.com</a>
 
 ![Troplo's Visitors](https://visitor-badge.glitch.me/badge?page_id=Troplo&left_color=grey&right_color=blue)
 
-![Troplo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Troplo&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Troplo&theme=dark)](https://git.io/streak-stats)
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
