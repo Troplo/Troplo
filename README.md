@@ -1,6 +1,6 @@
 Discord: <a href="https://discord.com/users/692259321907773460">Troplo#8495</a><br>
 Twitter: <a href="https://twitter.com/TheTroplo">@TheTroplo</a><br>
-Matrix: <a href="https://matrix.to/#/@troplo:troplo.com?via=troplo.com">@troplo:troplo.com</a><br>
+Matrix: <a href="https://matrix.to/#/@troplo:flowinity.com">@troplo:flowinity.com</a><br>
 Telegram: <a href="https://t.me/Troplo">@Troplo</a><br>
 Email: <a href="mailto:troplo@troplo.com">troplo@troplo.com</a>
 
