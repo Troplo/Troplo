@@ -26,5 +26,24 @@ Email: <a href="mailto:troplo@troplo.com">troplo@troplo.com</a>
 Since April 5, 2022<br>
 ![wakatime](https://wakatime.troplo.com/api/badge/Troplo/Troplo/interval:any?label=wakatime)
 <!--START_SECTION:waka-->
+
+```text
+From: 04 April 2022 - To: 17 February 2023
+
+Total Time: 462 hrs 57 mins
+
+Vue.js                        237 hrs 51 mins >>>>>>>>>>>>>------------   51.38 %
+JavaScript                    118 hrs 49 mins >>>>>>-------------------   25.67 %
+TypeScript                    59 hrs 18 mins  >>>----------------------   12.81 %
+JSON                          23 hrs 38 mins  >------------------------   05.10 %
+CSS                           5 hrs 43 mins   -------------------------   01.24 %
+Text                          4 hrs 44 mins   -------------------------   01.02 %
+Markdown                      3 hrs 25 mins   -------------------------   00.74 %
+Rust                          1 hr 5 mins     -------------------------   00.24 %
+GitIgnore file                1 hr 2 mins     -------------------------   00.23 %
+Bash                          59 mins         -------------------------   00.21 %
+YAML                          57 mins         -------------------------   00.21 %
+```
+
 <!--END_SECTION:waka-->
 <!--![Metrics](https://github.com/Troplo/Troplo/blob/main/github-metrics.svg)-->
