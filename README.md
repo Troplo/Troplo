@@ -25,5 +25,6 @@ Email: <a href="mailto:troplo@troplo.com">troplo@troplo.com</a>
 
 Since April 5, 2022<br>
 ![wakatime](https://wakatime.troplo.com/api/badge/Troplo/Troplo/interval:any?label=wakatime)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--![Metrics](https://github.com/Troplo/Troplo/blob/main/github-metrics.svg)-->
