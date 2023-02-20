@@ -28,21 +28,21 @@ Since April 5, 2022<br>
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 18 February 2023
+From: 04 April 2022 - To: 19 February 2023
 
-Total Time: 475 hrs 9 mins
+Total Time: 488 hrs 39 mins
 
-Vue.js                        244 hrs 12 mins >>>>>>>>>>>>>------------   51.40 %
-JavaScript                    119 hrs 7 mins  >>>>>>-------------------   25.07 %
-TypeScript                    64 hrs 32 mins  >>>----------------------   13.58 %
-JSON                          23 hrs 39 mins  >------------------------   04.98 %
-CSS                           5 hrs 43 mins   -------------------------   01.20 %
-Text                          4 hrs 49 mins   -------------------------   01.02 %
-Markdown                      3 hrs 26 mins   -------------------------   00.72 %
-Rust                          1 hr 5 mins     -------------------------   00.23 %
-GitIgnore file                1 hr 2 mins     -------------------------   00.22 %
-Bash                          59 mins         -------------------------   00.21 %
-YAML                          57 mins         -------------------------   00.20 %
+Vue.js                        252 hrs 15 mins >>>>>>>>>>>>>------------   51.62 %
+JavaScript                    119 hrs 17 mins >>>>>>-------------------   24.41 %
+TypeScript                    69 hrs 21 mins  >>>>---------------------   14.20 %
+JSON                          23 hrs 53 mins  >------------------------   04.89 %
+CSS                           5 hrs 44 mins   -------------------------   01.18 %
+Text                          4 hrs 49 mins   -------------------------   00.99 %
+Markdown                      3 hrs 26 mins   -------------------------   00.70 %
+Rust                          1 hr 5 mins     -------------------------   00.22 %
+SCSS                          1 hr 5 mins     -------------------------   00.22 %
+GitIgnore file                1 hr 2 mins     -------------------------   00.21 %
+Bash                          59 mins         -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
