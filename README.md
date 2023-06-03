@@ -27,15 +27,15 @@ Since April 5, 2022<br>
 ![wakatime](https://wakatime.troplo.com/api/badge/Troplo/Troplo/interval:any?label=wakatime)
 <!--START_SECTION:waka-->
 
-```text
-From: 04 April 2022 - To: 01 June 2023
+```txt
+From: 04 April 2022 - To: 02 June 2023
 
-Total Time: 713 hrs 27 mins
+Total Time: 714 hrs 57 mins
 
-Vue.js                        364 hrs 43 mins >>>>>>>>>>>>>------------   51.12 %
-TypeScript                    148 hrs 24 mins >>>>>--------------------   20.80 %
-JavaScript                    127 hrs 31 mins >>>>---------------------   17.87 %
-JSON                          30 hrs          >------------------------   04.21 %
+Vue.js                        364 hrs 49 mins >>>>>>>>>>>>>------------   51.03 %
+TypeScript                    149 hrs 42 mins >>>>>--------------------   20.94 %
+JavaScript                    127 hrs 31 mins >>>>---------------------   17.84 %
+JSON                          30 hrs          >------------------------   04.20 %
 SCSS                          7 hrs 9 mins    -------------------------   01.00 %
 CSS                           6 hrs 48 mins   -------------------------   00.95 %
 Text                          6 hrs 11 mins   -------------------------   00.87 %
