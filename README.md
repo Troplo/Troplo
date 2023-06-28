@@ -28,19 +28,19 @@ Since April 5, 2022<br>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2022 - To: 26 June 2023
+From: 04 April 2022 - To: 27 June 2023
 
-Total Time: 786 hrs 29 mins
+Total Time: 792 hrs 25 mins
 
-Vue.js                        384 hrs 5 mins  >>>>>>>>>>>>-------------   48.84 %
-TypeScript                    159 hrs 30 mins >>>>>--------------------   20.28 %
-JavaScript                    128 hrs 28 mins >>>>---------------------   16.33 %
-Kotlin                        33 hrs 50 mins  >------------------------   04.30 %
-JSON                          30 hrs 57 mins  >------------------------   03.94 %
-SCSS                          8 hrs 58 mins   -------------------------   01.14 %
-CSS                           6 hrs 58 mins   -------------------------   00.89 %
+Vue.js                        384 hrs 5 mins  >>>>>>>>>>>>-------------   48.47 %
+TypeScript                    160 hrs 4 mins  >>>>>--------------------   20.20 %
+JavaScript                    128 hrs 28 mins >>>>---------------------   16.21 %
+Kotlin                        38 hrs 43 mins  >------------------------   04.89 %
+JSON                          30 hrs 57 mins  >------------------------   03.91 %
+SCSS                          8 hrs 58 mins   -------------------------   01.13 %
+CSS                           6 hrs 58 mins   -------------------------   00.88 %
 Text                          6 hrs 13 mins   -------------------------   00.79 %
-HTML                          4 hrs 55 mins   -------------------------   00.63 %
+HTML                          4 hrs 55 mins   -------------------------   00.62 %
 Markdown                      4 hrs 1 min     -------------------------   00.51 %
 ```
 
