@@ -31,8 +31,7 @@ Email: <a href="mailto:troplo@troplo.com">troplo@troplo.com</a>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-Since April 5, 2022<br>
-![wakatime](https://wakatime.troplo.com/api/badge/Troplo/Troplo/interval:any?label=wakatime)
+Since April 5, 2022<br>[![wakatime](https://wakatime.com/badge/user/e5c39496-66c7-4025-bde6-d27a6433ed9b.svg)](https://wakatime.com/@e5c39496-66c7-4025-bde6-d27a6433ed9b)
 <!--START_SECTION:waka-->
 
 ```txt
