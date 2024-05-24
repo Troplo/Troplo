@@ -35,7 +35,7 @@ Since April 5, 2022<br>[![wakatime](https://wakatime.com/badge/user/e5c39496-66c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2022 - To: 22 May 2024
+From: 04 April 2022 - To: 23 May 2024
 
 Total Time: 1,490 hrs 1 min
 
