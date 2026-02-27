@@ -35,18 +35,18 @@ Since April 5, 2022<br>[![wakatime](https://wakatime.com/badge/user/e5c39496-66c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2022 - To: 25 February 2026
+From: 04 April 2022 - To: 26 February 2026
 
-Total Time: 3,230 hrs 21 mins
+Total Time: 3,237 hrs 32 mins
 
-TypeScript                    881 hrs 43 mins       >>>>>>>------------------   27.30 %
-Vue.js                        868 hrs 47 mins       >>>>>>>------------------   26.89 %
-C++                           661 hrs 56 mins       >>>>>--------------------   20.49 %
-JavaScript                    186 hrs 23 mins       >------------------------   05.77 %
-Kotlin                        103 hrs 36 mins       >------------------------   03.21 %
-C/C                           92 hrs 32 mins        >------------------------   02.86 %
+TypeScript                    881 hrs 43 mins       >>>>>>>------------------   27.23 %
+Vue.js                        868 hrs 47 mins       >>>>>>>------------------   26.84 %
+C++                           667 hrs 44 mins       >>>>>--------------------   20.63 %
+JavaScript                    186 hrs 23 mins       >------------------------   05.76 %
+Kotlin                        103 hrs 36 mins       >------------------------   03.20 %
+C/C                           93 hrs 45 mins        >------------------------   02.90 %
 JSON                          77 hrs 39 mins        >------------------------   02.40 %
-Dart                          75 hrs 9 mins         >------------------------   02.33 %
+Dart                          75 hrs 15 mins        >------------------------   02.32 %
 C#                            42 hrs 22 mins        -------------------------   01.31 %
 Prisma                        28 hrs 3 mins         -------------------------   00.87 %
 ```
