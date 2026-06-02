@@ -35,20 +35,20 @@ Since April 5, 2022<br>[![wakatime](https://wakatime.com/badge/user/e5c39496-66c
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2022 - To: 31 May 2026
+From: 04 April 2022 - To: 01 June 2026
 
-Total Time: 3,651 hrs 12 mins
+Total Time: 3,656 hrs 45 mins
 
-C++                           936 hrs 1 min         >>>>>>-------------------   25.64 %
-TypeScript                    892 hrs 59 mins       >>>>>>-------------------   24.46 %
-Vue.js                        868 hrs 48 mins       >>>>>>-------------------   23.79 %
-JavaScript                    187 hrs 1 min         >------------------------   05.12 %
-C/C                           135 hrs 43 mins       >------------------------   03.72 %
-Kotlin                        103 hrs 36 mins       >------------------------   02.84 %
-JSON                          79 hrs 12 mins        >------------------------   02.17 %
-Dart                          75 hrs 48 mins        >------------------------   02.08 %
-C#                            58 hrs 42 mins        -------------------------   01.61 %
-IDA                           37 hrs 24 mins        -------------------------   01.02 %
+C++                           937 hrs 38 mins       >>>>>>-------------------   25.64 %
+TypeScript                    893 hrs 18 mins       >>>>>>-------------------   24.43 %
+Vue.js                        868 hrs 48 mins       >>>>>>-------------------   23.76 %
+JavaScript                    187 hrs 1 min         >------------------------   05.11 %
+C/C                           135 hrs 54 mins       >------------------------   03.72 %
+Kotlin                        103 hrs 36 mins       >------------------------   02.83 %
+JSON                          79 hrs 16 mins        >------------------------   02.17 %
+Dart                          75 hrs 48 mins        >------------------------   02.07 %
+C#                            60 hrs 59 mins        -------------------------   01.67 %
+IDA                           38 hrs 18 mins        -------------------------   01.05 %
 ```
 
 <!--END_SECTION:waka-->
